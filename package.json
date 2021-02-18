@@ -1,0 +1,23 @@
+{
+  "name": "DatePicker(WebDev)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriyL-Git/DatePicker-WebDev-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriyL-Git/DatePicker-WebDev-/issues"
+  },
+  "homepage": "https://github.com/YuriyL-Git/DatePicker-WebDev-#readme",
+  "dependencies": {
+    "date-fns": "^2.17.0"
+  }
+}
